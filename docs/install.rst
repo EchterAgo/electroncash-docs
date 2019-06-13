@@ -11,6 +11,7 @@ Linux users will need to run Electron Cash directly from the source code.
 
   - ``sudo apt-get install python3-setuptools``
   - ``sudo pip3 install PyQt5``
+  - another test
 
 3. You should have already :doc:`downloaded and verified <verifydownload>` a gzipped tar of the source. The file will be named something like
    ``ElectronCash-3.1.2.tar.gz``.
