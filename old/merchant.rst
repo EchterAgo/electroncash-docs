@@ -76,6 +76,7 @@ certs in order to main compatibility among wallets. You can
 find them here:
 
 https://letsencrypt.org/certs/letsencryptauthorityx3.pem.txt
+
 https://letsencrypt.org/certs/isrgrootx1.pem.txt
 
 
