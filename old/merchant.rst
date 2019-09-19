@@ -109,7 +109,7 @@ Set the payment URL
 Although this field is optional, it will be necessary for some wallets. 
 Currently, the bitcoin.com wallet will ignore this field and use the 
 same URL that is provided by request_url. To maintain compatibility 
-accross wallets, set payment_url to the same URL provided in url_rewrite:
+across wallets, set payment_url to the same URL provided in url_rewrite:
 
 .. code-block:: bash
 
