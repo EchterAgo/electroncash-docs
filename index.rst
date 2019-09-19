@@ -25,6 +25,7 @@ Getting Started
 
     docs/verifydownload
     docs/install
+    docs/testnet
 
 Contributing
 ------------
