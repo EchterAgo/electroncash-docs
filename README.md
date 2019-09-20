@@ -2,7 +2,7 @@
 
 This is a set of notes for writing the documentation for Electron Cash.
 
-The documentation is written using the (Sphinx Python Documentation Generator)[http://www.sphinx-doc.org/en/stable/].
+The documentation is written using the [Sphinx Python Documentation Generator](http://www.sphinx-doc.org/)].
 
 # Generating Documentation
 Make sure sphinx is installed with `pip install sphinx`.
